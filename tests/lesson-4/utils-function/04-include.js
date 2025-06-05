@@ -16,3 +16,5 @@ console.log(email.includes("@"));
 // 1.3 Kiểm tra 'Pro' trong productName
 
 console.log(productName.includes("Pro"));
+
+

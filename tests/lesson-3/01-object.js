@@ -70,3 +70,6 @@ let school = {
     ],
 };
 console.log(school);
+
+
+

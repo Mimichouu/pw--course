@@ -13,3 +13,5 @@ console.log(emails.split( "," ));
 // 3. Chia date thành mảng ngày, tháng, năm (dùng dấu gạch ngang)
 
 console.log(date.split( "-" ));
+
+
