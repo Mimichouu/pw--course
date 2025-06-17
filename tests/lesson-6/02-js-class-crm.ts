@@ -2,7 +2,7 @@ class Customer {
     id;
     name;
     email;
-    phone 
+    phone
 
     constructor(id, name, email, phone) {
         this.id = id;
